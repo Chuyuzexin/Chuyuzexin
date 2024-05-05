@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tower of Hanoi</title>
+    <style>
+        /* CSS样式可以用于样式化游戏元素，如磁盘、柱子等 */
+        /* 在这里添加您的CSS样式 */
+    </style>
+</head>
+<body>
+    <h1>Tower of Hanoi</h1>
+    
+    <label for="diskNumber">Select number of disks:</label>
+    <select id="diskNumber">
+        <!-- 在这里添加选项，让用户选择磁盘数量 -->
+    </select>
+    
+    <button id="startButton">Start</button>
+    <button id="pauseButton">Pause</button>
+    <button id="resumeButton">Resume</button>
+    
+    <label for="speed">Select speed:</label>
+    <select id="speed">
+        <!-- 在这里添加选项，让用户选择移动速度 -->
+    </select>
+    
+    <div id="gameContainer">
+        <!-- 在这里添加游戏元素，如柱子和磁盘 -->
+    </div>
+    
+    <script>
+        // JavaScript代码可以用于控制游戏逻辑和交互
+        // 在这里添加您的JavaScript代码
+    </script>
+</body>
+</html>
